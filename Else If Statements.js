@@ -15,7 +15,7 @@ if (season === 'spring') {
 }
 
 
-// if run the example no.1, console displays: Invalid season.
+// if run the code block (example no.1), the result will be: Invalid season.
 
 
 // example no.2:
@@ -38,4 +38,4 @@ if (season === 'spring') {
 }
 
 
-// if run the example no.2, console displays: It's sunny and warm because it's summer!
+// if run the code block (example no.2), the result will be: It's sunny and warm because it's summer!
